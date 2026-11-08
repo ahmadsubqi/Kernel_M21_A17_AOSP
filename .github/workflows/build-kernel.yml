@@ -11,7 +11,7 @@ on:
       target:
         description: "Device target"
         required: true
-        default: "m31"
+        default: "m21"
         type: choice
         options:
           - m31
